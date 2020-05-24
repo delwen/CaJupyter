@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter notebook demonstrating the analysis of action potential evoked dendritic calcium signals during development in the MSO.
 
-This code is linked to Figure 2 of the paper entitled *'Activity-dependent calcium signaling in neurons of the medial superior olive during late postnatal development'*, Journal of Neuroscience 16 January 2020, 1545-19; [DOI](https://doi.org/10.1523/JNEUROSCI.1545-19.2020).
+The code is linked to Figure 2 of the paper entitled *'Activity-dependent calcium signaling in neurons of the medial superior olive during late postnatal development'*, Journal of Neuroscience 16 January 2020, 1545-19; [https://doi.org/10.1523/JNEUROSCI.1545-19.2020](https://doi.org/10.1523/JNEUROSCI.1545-19.2020).
 
 To run this Jupyter notebook, download the associated data archived in [Zenodo](https://doi.org/10.5281/zenodo.3614073) and extract it in the same folder as the Jupyter notebook. For details on the data, please consult the README.md in the Zenodo repository.
 
