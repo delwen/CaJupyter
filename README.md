@@ -6,7 +6,7 @@ This code is linked to Figure 2 of the paper entitled *'Activity-dependent calci
 
 To run this Jupyter notebook, download the associated data archived in [Zenodo](https://doi.org/10.5281/zenodo.3614073) and extract it in the same folder as the Jupyter notebook. For details on the data, please consult the README.md in the Zenodo repository.
 
-Integration with MyBinder is in progress!
+Integration with Binder is in progress!
 
 The code used in this Jupyter notebook is the same as that used in the paper, with minor adaptations for the Jupyter notebook and Python 3. The original code is archived in Zenodo: [CaAnalysis: Analysis Toolbox for Ca²⁺ Imaging](https://zenodo.org/record/2575675#.Xi…).
 
